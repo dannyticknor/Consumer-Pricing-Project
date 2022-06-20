@@ -17,3 +17,5 @@ https://www.bls.gov/cpi/data.htm
 https://www.bls.gov/cpi/additional-resources/index-publication-level.htm
 
 https://journaliststoolbox.substack.com/p/journalists-toolbox-business-part-ca8
+
+Starting to extract data from said sources. 6.19.22
